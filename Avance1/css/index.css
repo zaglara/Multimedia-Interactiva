@@ -1,0 +1,131 @@
+.boton_1{
+	text-decoration: none;
+	padding: 10px;
+	font-family: cursive;
+	padding-left: 30px;
+    padding-right: 30px;
+    font-weight: 800;
+    font-size: 40px;
+    color: black;
+    background-color: #c70039;
+    border-style: solid;
+}
+.boton_1:hover{
+    color: #9b0e0e;
+    background-color: #bc6355;
+    text-decoration: none;
+}
+.boton_2{
+	text-decoration: none;
+	padding: 5px;
+    font-family: cursive;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: 800;
+    font-size: 40px;
+    color: black;
+	background-color: #c70039;
+    border-style: solid;
+}
+.boton_2:hover{
+	color: #9b0e0e;
+	background-color: #bc6355;
+    text-decoration: none;
+}
+.boton_3{
+	text-decoration: none;
+	padding: 5px;
+    font-family: cursive;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 800;
+    font-size: 20px;
+    color: black;
+    background-color: #900c3f;
+    border-style: solid;
+}
+.boton_3:hover{
+    color: #9b0e0e;
+    background-color: #bc6355;
+    text-decoration: none;
+}
+.boton_4{
+	text-decoration: none;
+	padding: 5px;
+    font-family: cursive;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: 800;
+    font-size: 20px;
+    color: black;
+	background-color: #c70039;
+    border-style: solid;
+}
+.boton_4:hover{
+	color: #9b0e0e;
+	background-color: #bc6355;
+    text-decoration: none;
+}
+body{
+	background-color: #FF5733;
+	font-family: cursive;
+}
+.titulo{
+	text-align: center;
+	margin-top: 3%;
+	font-size: 60px;
+}
+.botones{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+.botonesJ{
+	margin-top: 40px;
+	text-align: center;
+}
+.botonesG{
+	margin-top: 40px;
+	text-align: center;
+}
+p{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 7%;
+}
+.boton_inferior{
+	margin-top: 122px;
+}
+.boton_inferior2{
+	margin-top: 46px;
+}
+.boton_inferior3{
+	margin-top: 50px;
+}
+.punt{
+	text-decoration: none;
+	padding: 20px;
+    font-family: cursive;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-weight: 800;
+    font-size: 20px;
+    color: black;
+    background-color: #c70039;
+    border-style: solid;
+	text-align: center;
+	margin-top: 1%;
+}
+.pantallaJuego{
+	float: left;
+	margin-top: 20px;
+}
+#namePlayer{
+	width: 50%;
+}
+.datosPlayer{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
